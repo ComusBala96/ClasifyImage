@@ -680,7 +680,6 @@ if __name__ == "__main__":
             "Please check your dataset folders."
         )
 
-
     # --------------------------------------------------------
     # STEP 2:
     # TRAIN SVM MODEL
